@@ -29,4 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanrajak-ui&show_icons=true&locale=en" alt="amanrajak-ui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrajak-ui&" alt="amanrajak-ui" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=amanrajak-ui&theme=tokyonight" alt="amanrajak-ui" /></p>
+
