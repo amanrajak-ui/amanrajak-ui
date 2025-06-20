@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Rajak</h1>
 <h3 align="center">💻 B.Tech CSE | DSA Enthusiast | Passionate about Web Dev & Problem Solving | Exploring C++, Java & Python | 📍 India</h3>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" align="right"/ >
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right" width="350" />
 
 - 🔭 I’m currently working on [Doctor Appointment](https://github.com/amanrajak-ui/doctor_appointment)
 
