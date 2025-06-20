@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Rajak</h1>
 <h3 align="center">💻 B.Tech CSE | DSA Enthusiast | Passionate about Web Dev & Problem Solving | Exploring C++, Java & Python | 📍 India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motionelements.com%2Fstock-image-32872868-futuristic-glowing-sci-fi-portal-for-presentation&psig=AOvVaw0lDv4yIJi0wvIjCvcvDFB2&ust=1750530647700000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCClYLRgI4DFQAAAAAdAAAAABAT" alt="">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 - 🔭 I’m currently working on [Doctor Appointment](https://github.com/amanrajak-ui/doctor_appointment)
 
 - 🌱 I’m currently learning **DSA, Web Development**
