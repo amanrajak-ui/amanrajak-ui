@@ -3,9 +3,6 @@
 
 <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="350"/>
 
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="350"/>
-
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="350"/>
 
 
 
