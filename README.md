@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Rajak</h1>
 <h3 align="center">💻 B.Tech CSE | DSA Enthusiast | Passionate about Web Dev & Problem Solving | Exploring C++, Java & Python | 📍 India</h3>
 <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="350"/>
+
 
 
 
