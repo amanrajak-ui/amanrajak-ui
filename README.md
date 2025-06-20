@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Rajak</h1>
 <h3 align="center">💻 B.Tech CSE | DSA Enthusiast | Passionate about Web Dev & Problem Solving | Exploring C++, Java & Python | 📍 India</h3>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXjixHCj-9qo7JJH3_hxHDxCgl1w45dYzx7w&s" alt="">
 - 🔭 I’m currently working on [Doctor Appointment](https://github.com/amanrajak-ui/doctor_appointment)
 
 - 🌱 I’m currently learning **DSA, Web Development**
