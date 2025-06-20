@@ -29,8 +29,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanrajak-ui&show_icons=true&locale=en" alt="amanrajak-ui" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=amanrajak-ui" alt="amanrajak-ui" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanrajak-ui&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub%20Streak-Broken%20or%20Blocked-red';" />
+</p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=amanrajak-ui" alt="amanrajak-ui" /></p>
 
 
